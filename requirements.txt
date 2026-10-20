@@ -1,0 +1,14 @@
+beautifulsoup4
+certifi
+PyAudio
+charset-normalizer
+idna
+pyttsx3
+requests
+setuptools
+soupsieve
+SpeechRecognition
+typing_extensions
+urllib3
+wikipedia
+
